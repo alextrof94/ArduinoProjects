@@ -1,0 +1,15 @@
+**This code works with the JP Serial Servo Controllers**
+
+
+4 channel:
+http://www.ebay.com/itm/JP-Serial-Servo-Motor-Robot-Controller-4ch-for-Stamp-Basic-Picaxe-Arduino-/171140285986?pt=Radio_Control_Parts_Accessories&hash=item27d8c18622
+
+
+10 channel: 
+http://www.ebay.com/itm/JP-Serial-Servo-Controller-Module-10ch-for-Stamp-Basic-Picaxe-and-Arduino-/171140285634?pt=Radio_Control_Parts_Accessories&hash=item27d8c184c2
+
+23 channel:
+http://www.ebay.com/itm/JP-Serial-Servo-Motor-Robot-Controller-23ch-for-Basic-Stamp-Picaxe-Arduino-/171140285988?pt=Radio_Control_Parts_Accessories&hash=item27d8c18624
+
+34 channel:
+http://www.ebay.com/itm/JP-Serial-Servo-Motor-Robot-Controller-34ch-for-Stamp-Basic-Picaxe-Arduino-/171140285983?pt=Radio_Control_Parts_Accessories&hash=item27d8c1861f

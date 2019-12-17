@@ -1,0 +1,6 @@
+Number_of_Channels     KEYWORD2
+Move                   KEYWORD2
+Calibrate              KEYWORD2
+
+mySerial  LITERAL1
+Serial   LITERAL1
