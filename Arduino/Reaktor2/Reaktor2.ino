@@ -95,6 +95,7 @@ void modeLoading() {
   lcd.print("WORK MODE");
   delay(2000);   
   mode = 1;
+  
 }
 
 uint32_t displayUpdateTimer = 0;
